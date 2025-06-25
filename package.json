@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@sanity/client": "^3.4.1",
+    "@sanity/client": "^2.23.2",
     "@sanity/image-url": "^1.1.0",
     "@stripe/stripe-js": "^1.54.2",
     "canvas-confetti": "^1.9.3",
